@@ -1,9 +1,1 @@
-# genetic-algo-py
-Genetic Algorithm - evolutionary optimization with crossover and mutation
-
-Zero-dependency Python CLI tool.
-
-## Usage
-```bash
-python3 genetic_algo.py
-```
+# genetic-algo-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 genetic_algo.py\n```\n
